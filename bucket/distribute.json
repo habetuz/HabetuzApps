@@ -3,5 +3,6 @@
     "description": "Easily distribute images from your camera or phone into a desired folder structure!",
     "homepage": "https://github.com/habetuz/Distribute",
     "url": "https://github.com/habetuz/Distribute/releases/download/v1.0.0/Distribute.zip",
-    "bin": "Distribute.exe"
+    "bin": "Distribute.exe",
+    "license":"Freeware"
 }
